@@ -1,6 +1,7 @@
 ## `Exercise-function` 🎓
 ---
 `Syntax`
+
     function function_name() {  
         //body of the function  
     }   

@@ -11,6 +11,7 @@
     function_name()
     
     `Example`
+    `Syntax`
     
     function hello() //defining a function  
     {  
@@ -22,5 +23,6 @@
     which is called a scope of function.
 
     `Output`
+    `Syntax`
 
     hello function called
